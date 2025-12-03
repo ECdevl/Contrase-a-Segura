@@ -1,0 +1,2 @@
+/home/yo/contra-app/build/flutter/android/app/.cxx/RelWithDebInfo/4a2l6g5g/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/yo/contra-app/build/flutter/android/app/.cxx/RelWithDebInfo/4a2l6g5g/armeabi-v7a/CMakeFiles/rebuild_cache.dir
